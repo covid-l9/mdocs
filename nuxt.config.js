@@ -7,5 +7,8 @@ export default theme({
     router: {
       base: '/mdocs/'
     }
-  }
+  },
+  router: {
+      base: '/mdocs/'
+    }
 })
