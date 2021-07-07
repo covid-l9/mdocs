@@ -1,10 +1,10 @@
 {
   "title": "Nuxt Content",
-  "url": "https://covid-l9.github.io/docs/",
+  "url": "https://covid-l9.github.io/mdocs/",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "covid-l9/docs",
+  "github": "covid-l9/mdocs",
   "twitter": "@docs"
 }

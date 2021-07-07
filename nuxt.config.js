@@ -5,7 +5,7 @@ export default theme({
     primaryColor: '#E24F55',
     target: 'static',
     router: {
-      base: '/docs/'
+      base: '/mdocs/'
     }
   }
 })
