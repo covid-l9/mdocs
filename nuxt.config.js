@@ -2,13 +2,10 @@ import theme from '@nuxt/content-theme-docs'
 
 export default theme({
   docs: {
-    primaryColor: '#E24F55'
+    primaryColor: '#E24F55',
+    target: 'static',
+    router: {
+      base: '/docs/'
+    }
   }
 })
-
-export default {
-  target: 'static',
-  router: {
-    base: '/nuxt/'
-  }
-}
